@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Visiteurs>
+	<visiteur>
+		<idVisiteur>45</idVisiteur>
+		<nom>Bref</nom>
+		<prenom>Harry</prenom>
+		<ticketVIP>Oui</ticketVIP>
+	</visiteur>
+	<visiteur>
+		<idVisiteur>44</idVisiteur>
+		<nom>Frearine</nom>
+		<prenom>Quentin</prenom>
+		<ticketVIP>Oui</ticketVIP>
+	</visiteur>
+</Visiteurs>

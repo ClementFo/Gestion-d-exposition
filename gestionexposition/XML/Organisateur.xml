@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Organisateurs>
+	<organisateur>
+		<idOrganisateur>1</idOrganisateur>
+		<nom>Bauvin</nom>
+		<prenom>Albert</prenom>
+	</organisateur>
+</Organisateurs>

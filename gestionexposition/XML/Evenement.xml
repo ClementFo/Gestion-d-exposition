@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Evenements>
+	<evenement>
+		<idEvenement>700</idEvenement>
+		<nom>Innovation et passé</nom>
+		<type>Conférence</type>
+		<dateDebut>2018-03-20 08:30:00</dateDebut>
+		<dateFin>2018-03-20 10:00:00</dateFin>
+	</evenement>
+	<evenement>
+		<idEvenement>701</idEvenement>
+		<nom>Test de mythologie</nom>
+		<type>Quizz de connaissances</type>
+		<dateDebut>2018-03-23 15:00:00</dateDebut>
+		<dateFin>2018-03-23 15:30:00</dateFin>
+	</evenement>
+	<evenement>
+		<idEvenement>703</idEvenement>
+		<nom>Art et mythes</nom>
+		<type>Conférence sur la collaboration entre Musée pour recréer des œuvres du passé</type>
+		<dateDebut>2018-03-21 09:30:00</dateDebut>
+		<dateFin>2018-03-21 11:00:00</dateFin>
+	</evenement>
+	<evenement>
+		<idEvenement>704</idEvenement>
+		<nom>Nouvelles découvertes</nom>
+		<type>Conférence sur un site d'archéologie</type>
+		<dateDebut>2018-03-22 14:00:00</dateDebut>
+		<dateFin>2018-03-22 16:30:00</dateFin>
+	</evenement>
+</Evenements>

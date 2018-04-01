@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Invites>
+	<invite>
+		<idProfessionnel>1</idProfessionnel>
+		<nom>Alvera</nom>
+		<prenom>Maria</prenom>
+		<profession>Archéologue</profession>
+		<entreprise>Musée du Louvre</entreprise>
+		<dataInvites>
+			<specification>Fouilles</specification>
+			<evenement>Nouvelles découvertes</evenement>
+		</dataInvites>
+	</invite>
+	<invite>
+		<idProfessionnel>2</idProfessionnel>
+		<nom>Hill</nom>
+		<prenom>Jane</prenom>
+		<profession>Archéologue</profession>
+		<entreprise>British  museum</entreprise>
+		<dataInvites>
+			<specification>Plus spécialisée</specification>
+			<evenement>Art et mythes</evenement>
+		</dataInvites>
+	</invite>
+	<invite>
+		<idProfessionnel>4</idProfessionnel>
+		<nom>Fernand</nom>
+		<prenom>Samuel</prenom>
+		<profession>Animateur</profession>
+		<entreprise>Animation en tout genre</entreprise>
+		<dataInvites>
+			<specification>Animation</specification>
+			<evenement>Test de mythologie</evenement>
+		</dataInvites>
+	</invite>
+	<invite>
+		<idProfessionnel>5</idProfessionnel>
+		<nom>Helsen</nom>
+		<prenom>Steven</prenom>
+		<profession>Ingénieur</profession>
+		<entreprise>CapTechn</entreprise>
+		<dataInvites>
+			<specification>Aspect technologique</specification>
+			<evenement>Innovation et passé</evenement>
+		</dataInvites>
+	</invite>
+	<invite>
+		<idProfessionnel>10</idProfessionnel>
+		<nom>Gástos</nom>
+		<prenom>Manolis</prenom>
+		<profession>Historien</profession>
+		<entreprise>Musée de l'Algora antique d'Athènes</entreprise>
+		<dataInvites>
+			<specification>Histoire et écrits d'Epoque</specification>
+			<evenement>Innovation et passé</evenement>
+			<evenement>Art et mythes</evenement>
+		</dataInvites>
+	</invite>
+	<invite>
+		<idProfessionnel>13</idProfessionnel>
+		<nom>Schiff</nom>
+		<prenom>Anna</prenom>
+		<profession>Restaurateur de tableau</profession>
+		<entreprise>Musée du Louvre</entreprise>
+		<dataInvites>
+			<specification>Restauration du temple d'Athéna</specification>
+			<evenement>Art et mythes</evenement>
+		</dataInvites>
+	</invite>
+	<invite>
+		<idProfessionnel>15</idProfessionnel>
+		<nom>Benaki</nom>
+		<prenom>Anastae</prenom>
+		<profession>Restaurateur de tableau</profession>
+		<entreprise>Musée nationale archéologie</entreprise>
+		<dataInvites>
+			<specification>Fouille du site archéologique de Varda</specification>
+			<evenement>Nouvelles découvertes</evenement>
+		</dataInvites>
+	</invite>
+</Invites>

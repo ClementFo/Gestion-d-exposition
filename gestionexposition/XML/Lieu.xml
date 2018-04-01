@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Lieux>
+	<lieu>
+		<idLieu>1000</idLieu>
+		<nomBatiment>Halle des Expositions</nomBatiment>
+		<ville>Paris</ville>
+		<codePostal>75004</codePostal>
+		<adresse>85 avenue des Insoumis</adresse>
+		<dimension>1200</dimension>
+	</lieu>
+	<lieu>
+		<idLieu>1001</idLieu>
+		<nomBatiment>Amphithéatre de Paris</nomBatiment>
+		<ville>Paris</ville>
+		<codePostal>75004</codePostal>
+		<adresse>5 avenue des Cassis</adresse>
+		<dimension>300</dimension>
+	</lieu>
+</Lieux>

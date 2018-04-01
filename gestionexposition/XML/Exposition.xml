@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Expositions>
+	<exposition>
+		<idEposition>1</idEposition>
+		<nom>Mythologie et Histoire</nom>
+		<theme>Histoire, religion et technologie</theme>
+		<description>Pour les passionnés de la Grèce antique</description>
+		<dateDebut>2018-03-20</dateDebut>
+		<dateFin>2018-03-23</dateFin>
+		<image>Image\Affiche.jpg</image>
+		<organisateur>Bauvin Albert</organisateur>
+	</exposition>
+</Expositions>

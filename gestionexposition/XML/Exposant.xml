@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<Exposants>
+	<exposant>
+		<idProfessionnel>2</idProfessionnel>
+		<nom>Hill</nom>
+		<prenom>Jane</prenom>
+		<profession>Archéologue</profession>
+		<entreprise>British  museum</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>3</idProfessionnel>
+		<nom>Herms</nom>
+		<prenom>Bastian</prenom>
+		<profession>Commercial</profession>
+		<entreprise>Antiquités de Grèce</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>11</idProfessionnel>
+		<nom>Flemming</nom>
+		<prenom>Pierre</prenom>
+		<profession>Libraire</profession>
+		<entreprise>Histoires du monde</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>12</idProfessionnel>
+		<nom>Granados</nom>
+		<prenom>Vincente</prenom>
+		<profession>Assistant-libraire</profession>
+		<entreprise>Histoires du monde</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>6</idProfessionnel>
+		<nom>Browing</nom>
+		<prenom>Elsa</prenom>
+		<profession>Vendeuse</profession>
+		<entreprise>Le paradis des sucreries</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>7</idProfessionnel>
+		<nom>Rage</nom>
+		<prenom>Milo</prenom>
+		<profession>Serveur</profession>
+		<entreprise>Frog & Cheetah</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>8</idProfessionnel>
+		<nom>Tove</nom>
+		<prenom>Dergane</prenom>
+		<profession>Cuisinier</profession>
+		<entreprise>Frog & Cheetah</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>9</idProfessionnel>
+		<nom>Saint-Louis</nom>
+		<prenom>Albert</prenom>
+		<profession>Cuisinier</profession>
+		<entreprise>Frog & Cheetah</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>18</idProfessionnel>
+		<nom>Mendeliev</nom>
+		<prenom>Mashka</prenom>
+		<profession>Gérante</profession>
+		<entreprise>Le paradis des sucreries</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>14</idProfessionnel>
+		<nom>Perdino</nom>
+		<prenom>Allan</prenom>
+		<profession>Peintre-sculpteur</profession>
+		<entreprise>Perdino_décorateur</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>16</idProfessionnel>
+		<nom>Alighieri</nom>
+		<prenom>Enzo</prenom>
+		<profession>Historien</profession>
+		<entreprise>Musée de la mythologie de Florence</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>17</idProfessionnel>
+		<nom>Dupont</nom>
+		<prenom>Philippe</prenom>
+		<profession>Phylosophe</profession>
+		<entreprise>Lycée d'Anapolie</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+	<exposant>
+		<idProfessionnel>19</idProfessionnel>
+		<nom>Jawhead</nom>
+		<prenom>Angela</prenom>
+		<profession>Gérante</profession>
+		<entreprise>Petits souvenirs</entreprise>
+		<dataExposants>
+			<stand>1</stand>
+			<batiment>Halle des Expositions</batiment>
+		</dataExposants>
+	</exposant>
+</Exposants>
